@@ -1,0 +1,11 @@
+{
+    "openai_key": "",
+    "modules": [
+        "ui/lobby",
+        "ui/comand",
+        "ui/task",
+        "ui/reward",
+        "ui/profile",
+        "ui/home"
+    ]
+}
